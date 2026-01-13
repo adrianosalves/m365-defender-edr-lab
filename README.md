@@ -18,14 +18,10 @@ microsoft-defender/
 │  ├─ playbook.md
 │  ├─ iocs.md
 │  └─ lab-notes.md
-├─ case-02-lolbin-powershell/
-└─ case-03-pua-browser-extension/
 ```
 
 ## Casos
-- **Caso 01**: Macro maliciosa simulada
-- **Caso 02**: Uso de LOLBins (PowerShell)
-- **Caso 03**: PUA (Potentially Unwanted Application)
+- **Caso 01**: Arquivo maliciosa simulada
 
 > Todos os testes foram realizados em **ambiente de laboratório** com dados anonimizados.
 
