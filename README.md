@@ -10,7 +10,7 @@ Demonstrar práticas de:
 - Aplicação de políticas (ASR, Tamper Protection)
 
 ## Estrutura
-
+```
 microsoft-defender/
 ├─ README.md
 ├─ case-01-macro-maliciosa/
@@ -20,6 +20,7 @@ microsoft-defender/
 │  └─ lab-notes.md
 ├─ case-02-lolbin-powershell/
 └─ case-03-pua-browser-extension/
+```
 
 ## Casos
 - **Caso 01**: Macro maliciosa simulada
